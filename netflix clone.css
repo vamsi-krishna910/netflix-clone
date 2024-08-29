@@ -18,7 +18,7 @@
     display: flex;
     overflow-y: hidden;
     overflow-x: scroll;
-    margin: 2% 1%;
+    margin: 3% 1%;
 }
 .posters::-webkit-scrollbar
 {
